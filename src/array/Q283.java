@@ -23,7 +23,7 @@ public class Q283 {
     }
 
     /**
-     * 相邻两个元素交换
+     * 两个元素交换
      * @param nums
      */
     public void moveZeroes2(int[] nums) {
