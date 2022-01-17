@@ -3,6 +3,9 @@ package array;
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * @see <a href="https://leetcode-cn.com/problems/two-sum/description/">1. 两数之和</a>
+ */
 public class Q1 {
 
     public int[] twoSum(int[] nums, int target) {

@@ -2,6 +2,9 @@ package hash;
 
 import java.util.*;
 
+/**
+ * @see <a href="https://leetcode-cn.com/problems/group-anagrams/">49. 字母异位词分组</a>
+ */
 public class Q49 {
 
     public List<List<String>> groupAnagrams(String[] strs) {
