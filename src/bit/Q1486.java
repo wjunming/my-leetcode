@@ -1,5 +1,8 @@
-package array;
+package bit;
 
+/**
+ * @see <a href="https://leetcode-cn.com/problems/xor-operation-in-an-array/">1486. 数组异或操作</a>
+ */
 public class Q1486 {
 
     public int xorOperation(int n, int start) {

@@ -2,6 +2,9 @@ package recursion;
 
 import java.util.*;
 
+/**
+ * @see <a href="https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/">17. 电话号码的字母组合</a>
+ */
 public class Q17 {
 
     public List<String> letterCombinations(String digits) {
@@ -30,6 +33,27 @@ public class Q17 {
         String letters = map.get(digits.charAt(level));
         for (int i = 0; i < letters.length(); i++) {
             search(s + letters.charAt(i), digits, res, map, level + 1);
+        }
+    }
+
+    public List<String> letterCombinations2(String digits) {
+        if (digits == null || digits.isEmpty()) {
+            return Collections.emptyList();
+        }
+        String[] map = {"0", "1", "abc", "def", "ghi", "jkl", "mno", "pqrs", "tuv", "wxyz"};
+        List<String> result = new ArrayList<>();
+        dfs(map, result, digits, "", 0);
+        return result;
+    }
+
+    private void dfs(String[] map, List<String> result, String digits, String s, int n) {
+        if (digits.length() == n) {
+            result.add(s);
+            return;
+        }
+        String letters = map[Character.getNumericValue(digits.charAt(n))];
+        for (int i = 0; i < letters.length(); i++) {
+            dfs(map, result, digits, s + letters.charAt(i), n + 1);
         }
     }
 

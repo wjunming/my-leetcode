@@ -3,6 +3,9 @@ package lrucache;
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * @see <a href="https://leetcode-cn.com/problems/lru-cache/">146. LRU 缓存</a>
+ */
 public class Q146 {
 
     private Map<Integer, DLinkedNode> cache = new HashMap<>();

@@ -1,5 +1,8 @@
 package array;
 
+/**
+ * @see <a href="https://leetcode-cn.com/problems/final-value-of-variable-after-performing-operations/">2011. 执行操作后的变量值</a>
+ */
 public class Q2011 {
 
     public int finalValueAfterOperations(String[] operations) {

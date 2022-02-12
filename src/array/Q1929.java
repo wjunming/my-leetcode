@@ -1,5 +1,8 @@
 package array;
 
+/**
+ * @see <a href="https://leetcode-cn.com/problems/concatenation-of-array/">1929. 数组串联</a>
+ */
 public class Q1929 {
 
     public int[] getConcatenation(int[] nums) {

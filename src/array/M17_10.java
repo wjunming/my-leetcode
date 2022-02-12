@@ -3,6 +3,9 @@ package array;
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * @see <a href="https://leetcode-cn.com/problems/find-majority-element-lcci/">面试题 17.10. 主要元素</a>
+ */
 public class M17_10 {
 
     public int majorityElement(int[] nums) {

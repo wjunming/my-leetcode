@@ -5,6 +5,9 @@ import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.List;
 
+/**
+ * @see <a href="https://leetcode-cn.com/problems/3sum/">15. 三数之和</a>
+ */
 public class Q15 {
 
     public List<List<Integer>> threeSum(int[] nums) {

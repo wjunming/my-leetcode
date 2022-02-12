@@ -4,6 +4,9 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Stack;
 
+/**
+ * @see <a href="https://leetcode-cn.com/problems/valid-parentheses/">20. 有效的括号</a>
+ */
 public class Q20 {
 
     public boolean isValid(String s) {

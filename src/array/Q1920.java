@@ -1,5 +1,8 @@
 package array;
 
+/**
+ * @see <a href="https://leetcode-cn.com/problems/build-array-from-permutation/">1920. 基于排列构建数组</a>
+ */
 public class Q1920 {
 
     public int[] buildArray(int[] nums) {

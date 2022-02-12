@@ -3,25 +3,28 @@ package recursion;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * @see <a href="https://leetcode-cn.com/problems/subsets/">78. 子集</a>
+ */
 public class Q78 {
 
-    List<List<Integer>> ans = new ArrayList<>();
-    List<Integer> t = new ArrayList<>();
+    private List<List<Integer>> result = new ArrayList<>();
+    private List<Integer> current = new ArrayList<>();
 
     public List<List<Integer>> subsets(int[] nums) {
-        dfs(0, nums);
-        return ans;
+        dfs(nums, 0);
+        return result;
     }
 
-    private void dfs(int cur, int[] nums) {
-        if (cur == nums.length) {
-            ans.add(new ArrayList<>(t));
+    private void dfs(int[] nums, int level) {
+        if (nums.length == level) {
+            result.add(new ArrayList<>(current));
             return;
         }
-        t.add(nums[cur]);
-        dfs(cur + 1, nums);
-        t.remove(t.size() - 1);
-        dfs(cur + 1, nums);
+        current.add(nums[level]);
+        dfs(nums, level + 1);
+        current.remove(current.size() - 1);
+        dfs(nums, level + 1);
     }
 
     public static void main(String[] args) {

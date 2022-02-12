@@ -3,6 +3,9 @@ package array;
 import java.util.HashSet;
 import java.util.Set;
 
+/**
+ * @see <a href="https://leetcode-cn.com/problems/contains-duplicate-ii/">219. 存在重复元素 II</a>
+ */
 public class Q219 {
 
     public boolean containsNearbyDuplicate(int[] nums, int k) {
