@@ -1,5 +1,8 @@
 package binarysearch;
 
+/**
+ * @see <a href="https://leetcode-cn.com/problems/search-in-rotated-sorted-array/">33. 搜索旋转排序数组</a>
+ */
 public class Q33 {
 
     public int search(int[] nums, int target) {
@@ -21,6 +24,7 @@ public class Q33 {
                 if (nums[0] <= target && target < nums[mid]) {
                     right = mid - 1;
                 } else {
+
                     left = mid + 1;
                 }
             } else {

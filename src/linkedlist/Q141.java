@@ -3,6 +3,9 @@ package linkedlist;
 import java.util.HashSet;
 import java.util.Set;
 
+/**
+ * @see <a href="https://leetcode-cn.com/problems/linked-list-cycle/">141. 环形链表</a>
+ */
 public class Q141 {
 
     public boolean hasCycle(ListNode head) {

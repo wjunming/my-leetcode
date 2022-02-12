@@ -1,5 +1,8 @@
 package array;
 
+/**
+ * @see <a href="https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others/">747. 至少是其他数字两倍的最大数</a>
+ */
 public class Q747 {
 
     public int dominantIndex(int[] nums) {

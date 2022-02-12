@@ -1,5 +1,8 @@
 package other;
 
+/**
+ * @see <a href="https://leetcode-cn.com/problems/calculate-money-in-leetcode-bank/">1716. 计算力扣银行的钱</a>
+ */
 public class Q1716 {
 
     public int totalMoney(int n) {

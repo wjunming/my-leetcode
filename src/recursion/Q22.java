@@ -3,6 +3,9 @@ package recursion;
 import java.util.LinkedList;
 import java.util.List;
 
+/**
+ * @see <a href="https://leetcode-cn.com/problems/generate-parentheses/">22. 括号生成</a>
+ */
 public class Q22 {
 
     public List<String> generateParenthesis(int n) {

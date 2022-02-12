@@ -1,5 +1,8 @@
-package array;
+package binarysearch;
 
+/**
+ * @see <a href="https://leetcode-cn.com/problems/search-insert-position/">35. 搜索插入位置</a>
+ */
 public class Q35 {
 
     public int searchInsert(int[] nums, int target) {

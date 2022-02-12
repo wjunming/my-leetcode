@@ -1,5 +1,8 @@
 package array;
 
+/**
+ * @see <a href="https://leetcode-cn.com/problems/defuse-the-bomb/">1652. 拆炸弹</a>
+ */
 public class Q1652 {
 
     public int[] decrypt(int[] code, int k) {

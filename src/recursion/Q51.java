@@ -2,6 +2,9 @@ package recursion;
 
 import java.util.*;
 
+/**
+ * @see <a href="https://leetcode-cn.com/problems/n-queens/">51. N 皇后</a>
+ */
 public class Q51 {
 
     public List<List<String>> solveNQueens(int n) {

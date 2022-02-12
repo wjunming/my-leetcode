@@ -1,5 +1,8 @@
 package array;
 
+/**
+ * @see <a href="https://leetcode-cn.com/problems/transpose-matrix/">867. 转置矩阵</a>
+ */
 public class Q867 {
 
     public int[][] transpose(int[][] A) {

@@ -1,5 +1,8 @@
 package binarysearch;
 
+/**
+ * @see <a href="https://leetcode-cn.com/problems/valid-perfect-square/">367. 有效的完全平方数</a>
+ */
 public class Q367 {
 
     public boolean isPerfectSquare(int num) {

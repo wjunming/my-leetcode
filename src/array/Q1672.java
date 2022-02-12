@@ -2,6 +2,9 @@ package array;
 
 import java.util.Arrays;
 
+/**
+ * @see <a href="https://leetcode-cn.com/problems/richest-customer-wealth/">1672. 最富有客户的资产总量</a>
+ */
 public class Q1672 {
 
     public int maximumWealth(int[][] accounts) {

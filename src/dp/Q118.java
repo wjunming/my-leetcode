@@ -3,6 +3,9 @@ package dp;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * @see <a href="https://leetcode-cn.com/problems/pascals-triangle/">118. 杨辉三角</a>
+ */
 public class Q118 {
 
     public List<List<Integer>> generate(int numRows) {

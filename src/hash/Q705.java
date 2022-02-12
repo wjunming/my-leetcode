@@ -1,5 +1,8 @@
-package array;
+package hash;
 
+/**
+ * @see <a href="https://leetcode-cn.com/problems/design-hashset/">705. 设计哈希集合</a>
+ */
 public class Q705 {
 
     private boolean[] data;
