@@ -4,7 +4,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 /**
- * @see <a href="https://leetcode-cn.com/problems/linked-list-cycle/">141. 环形链表</a>
+ * @see <a href="https://leetcode.cn/problems/linked-list-cycle/">141. 环形链表</a>
  */
 public class Q141 {
 
@@ -33,15 +33,5 @@ public class Q141 {
             fast = fast.next.next;
         }
         return true;
-    }
-
-    private static class ListNode {
-        int val;
-        ListNode next;
-
-        ListNode(int x) {
-            val = x;
-            next = null;
-        }
     }
 }

@@ -1,7 +1,7 @@
 package binarysearch;
 
 /**
- * @see <a href="https://leetcode-cn.com/problems/sqrtx/">69. Sqrt(x)</a>
+ * @see <a href="https://leetcode.cn/problems/sqrtx/">69. Sqrt(x)</a>
  */
 public class Q69 {
 

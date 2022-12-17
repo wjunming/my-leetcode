@@ -5,7 +5,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @see <a href="https://leetcode-cn.com/problems/majority-element/">169. 多数元素</a>
+ * @see <a href="https://leetcode.cn/problems/majority-element/">169. 多数元素</a>
  */
 public class Q169 {
 

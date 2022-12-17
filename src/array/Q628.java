@@ -3,7 +3,8 @@ package array;
 import java.util.Arrays;
 
 /**
- * @see <a href="https://leetcode-cn.com/problems/maximum-product-of-three-numbers/">628. 三个数的最大乘积</a>
+ * @see <a href="https://leetcode.cn/problems/maximum-product-of-thr
+ * ee-numbers/">628. 三个数的最大乘积</a>
  */
 public class Q628 {
 

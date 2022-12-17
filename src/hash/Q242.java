@@ -5,7 +5,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @see <a href="https://leetcode-cn.com/problems/valid-anagram/description/">242. 有效的字母异位词</a>
+ * @see <a href="https://leetcode.cn/problems/valid-anagram/description/">242. 有效的字母异位词</a>
  */
 public class Q242 {
 

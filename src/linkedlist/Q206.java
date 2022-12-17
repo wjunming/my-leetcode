@@ -1,18 +1,17 @@
 package linkedlist;
 
 /**
- * @see <a href="https://leetcode-cn.com/problems/reverse-linked-list/">206. 反转链表</a>
+ * @see <a href="https://leetcode.cn/problems/reverse-linked-list/">206. 反转链表</a>
  */
 public class Q206 {
 
     public static ListNode reverseList(ListNode head) {
-        ListNode prev = null;
-        ListNode curr = head;
+        ListNode prev = null, curr = head;
         while (curr != null) {
-            ListNode nextTemp = curr.next;
+            ListNode nextTmp = curr.next;
             curr.next = prev;
             prev = curr;
-            curr = nextTemp;
+            curr = nextTmp;
         }
         return prev;
     }
@@ -25,14 +24,5 @@ public class Q206 {
         head.next.next.next.next = new ListNode(5);
         head = reverseList(head);
         System.out.println("finished");
-    }
-
-    private static class ListNode {
-        int val;
-        ListNode next;
-
-        ListNode(int x) {
-            val = x;
-        }
     }
 }

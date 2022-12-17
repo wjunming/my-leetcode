@@ -1,7 +1,7 @@
 package queue;
 
 /**
- * @see <a href="https://leetcode-cn.com/problems/sliding-window-maximum/">239. 滑动窗口最大值</a>
+ * @see <a href="https://leetcode.cn/problems/sliding-window-maximum/">239. 滑动窗口最大值</a>
  */
 public class Q239 {
 

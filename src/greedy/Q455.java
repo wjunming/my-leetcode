@@ -3,7 +3,7 @@ package greedy;
 import java.util.Arrays;
 
 /**
- * @see <a href="https://leetcode-cn.com/problems/assign-cookies/description/">455. 分发饼干</a>
+ * @see <a href="https://leetcode.cn/problems/assign-cookies/description/">455. 分发饼干</a>
  */
 public class Q455 {
 

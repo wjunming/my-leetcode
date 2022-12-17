@@ -1,7 +1,7 @@
 package array;
 
 /**
- * @see <a href="https://leetcode-cn.com/problems/number-of-good-pairs/">1512. 好数对的数目</a>
+ * @see <a href="https://leetcode.cn/problems/number-of-good-pairs/">1512. 好数对的数目</a>
  */
 public class Q1512 {
 

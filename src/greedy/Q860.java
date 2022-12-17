@@ -1,7 +1,7 @@
 package greedy;
 
 /**
- * @see <a href="https://leetcode-cn.com/problems/lemonade-change/description/">860. 柠檬水找零</a>
+ * @see <a href="https://leetcode.cn/problems/lemonade-change/description/">860. 柠檬水找零</a>
  */
 public class Q860 {
 

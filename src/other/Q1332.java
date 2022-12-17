@@ -1,7 +1,7 @@
 package other;
 
 /**
- * @see <a href="https://leetcode-cn.com/problems/remove-palindromic-subsequences/">1332. 删除回文子序列</a>
+ * @see <a href="https://leetcode.cn/problems/remove-palindromic-subsequences/">1332. 删除回文子序列</a>
  */
 public class Q1332 {
 

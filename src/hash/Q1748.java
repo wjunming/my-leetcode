@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @see <a href="https://leetcode-cn.com/problems/sum-of-unique-elements/">1748. 唯一元素的和</a>
+ * @see <a href="https://leetcode.cn/problems/sum-of-unique-elements/">1748. 唯一元素的和</a>
  */
 public class Q1748 {
 

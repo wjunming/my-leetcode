@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * @see <a href="https://leetcode-cn.com/problems/uncommon-words-from-two-sentences/">884. 两句话中的不常见单词</a>
+ * @see <a href="https://leetcode.cn/problems/uncommon-words-from-two-sentences/">884. 两句话中的不常见单词</a>
  */
 public class Q884 {
 

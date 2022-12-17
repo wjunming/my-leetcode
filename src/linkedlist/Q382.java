@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.Random;
 
 /**
- * @see <a href="https://leetcode-cn.com/problems/linked-list-random-node/">382. 链表随机节点</a>
+ * @see <a href="https://leetcode.cn/problems/linked-list-random-node/">382. 链表随机节点</a>
  */
 public class Q382 {
 
@@ -20,16 +20,4 @@ public class Q382 {
         }
         random = new Random();
     }
-
-    public int getRandom() {
-        return list.get(random.nextInt(list.size()));
-    }
-
-    private static class ListNode {
-       int val;
-       ListNode next;
-       ListNode() {}
-       ListNode(int val) { this.val = val; }
-       ListNode(int val, ListNode next) { this.val = val; this.next = next; }
-  }
 }

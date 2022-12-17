@@ -1,7 +1,7 @@
 package bit;
 
 /**
- * @see <a href="https://leetcode-cn.com/problems/number-of-1-bits/">191. 位1的个数</a>
+ * @see <a href="https://leetcode.cn/problems/number-of-1-bits/">191. 位1的个数</a>
  */
 public class Q191 {
 

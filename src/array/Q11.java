@@ -1,7 +1,7 @@
 package array;
 
 /**
- * @see <a href="https://leetcode-cn.com/problems/container-with-most-water/">11. 盛最多水的容器</a>
+ * @see <a href="https://leetcode.cn/problems/container-with-most-water/">11. 盛最多水的容器</a>
  */
 public class Q11 {
 

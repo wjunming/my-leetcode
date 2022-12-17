@@ -8,7 +8,7 @@ import java.util.List;
 import java.util.Queue;
 
 /**
- * @see <a href="https://leetcode-cn.com/problems/binary-tree-level-order-traversal/">102. 二叉树的层序遍历</a>
+ * @see <a href="https://leetcode.cn/problems/binary-tree-level-order-traversal/">102. 二叉树的层序遍历</a>
  */
 public class Q102 {
 

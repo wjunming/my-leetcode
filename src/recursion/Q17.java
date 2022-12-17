@@ -3,7 +3,7 @@ package recursion;
 import java.util.*;
 
 /**
- * @see <a href="https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/">17. 电话号码的字母组合</a>
+ * @see <a href="https://leetcode.cn/problems/letter-combinations-of-a-phone-number/">17. 电话号码的字母组合</a>
  */
 public class Q17 {
 
