@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @see <a href="https://leetcode-cn.com/problems/simplified-fractions/">1447. 最简分数</a>
+ * @see <a href="https://leetcode.cn/problems/simplified-fractions/">1447. 最简分数</a>
  */
 public class Q1447 {
 

@@ -1,7 +1,7 @@
 package dfs_bfs;
 
 /**
- * @see <a href="https://leetcode-cn.com/problems/number-of-enclaves/">1020. 飞地的数量</a>
+ * @see <a href="https://leetcode.cn/problems/number-of-enclaves/">1020. 飞地的数量</a>
  */
 public class Q1020 {
 

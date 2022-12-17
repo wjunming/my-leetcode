@@ -1,7 +1,7 @@
 package binarysearch;
 
 /**
- * @see <a href="https://leetcode-cn.com/problems/valid-perfect-square/">367. 有效的完全平方数</a>
+ * @see <a href="https://leetcode.cn/problems/valid-perfect-square/">367. 有效的完全平方数</a>
  */
 public class Q367 {
 

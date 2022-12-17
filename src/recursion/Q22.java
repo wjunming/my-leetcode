@@ -4,7 +4,7 @@ import java.util.LinkedList;
 import java.util.List;
 
 /**
- * @see <a href="https://leetcode-cn.com/problems/generate-parentheses/">22. 括号生成</a>
+ * @see <a href="https://leetcode.cn/problems/generate-parentheses/">22. 括号生成</a>
  */
 public class Q22 {
 

@@ -1,7 +1,7 @@
 package array;
 
 /**
- * @see <a href="https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/">26. 删除有序数组中的重复项</a>
+ * @see <a href="https://leetcode.cn/problems/remove-duplicates-from-sorted-array/">26. 删除有序数组中的重复项</a>
  */
 public class Q26 {
 
@@ -12,8 +12,7 @@ public class Q26 {
         int j = 0;
         for (int i = 1; i < nums.length; i++) {
             if (nums[i] != nums[j]) {
-                j++;
-                nums[j] = nums[i];
+                nums[++j] = nums[i];
             }
         }
         return j + 1;

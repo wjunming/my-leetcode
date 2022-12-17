@@ -1,7 +1,7 @@
 package bit;
 
 /**
- * @see <a href="https://leetcode-cn.com/problems/xor-operation-in-an-array/">1486. 数组异或操作</a>
+ * @see <a href="https://leetcode.cn/problems/xor-operation-in-an-array/">1486. 数组异或操作</a>
  */
 public class Q1486 {
 

@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @see <a href="https://leetcode-cn.com/problems/subsets/">78. 子集</a>
+ * @see <a href="https://leetcode.cn/problems/subsets/">78. 子集</a>
  */
 public class Q78 {
 

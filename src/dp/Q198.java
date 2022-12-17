@@ -1,7 +1,7 @@
 package dp;
 
 /**
- * @see <a href="https://leetcode-cn.com/problems/house-robber/">198. 打家劫舍</a>
+ * @see <a href="https://leetcode.cn/problems/house-robber/">198. 打家劫舍</a>
  */
 public class Q198 {
 

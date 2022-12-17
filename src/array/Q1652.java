@@ -1,7 +1,7 @@
 package array;
 
 /**
- * @see <a href="https://leetcode-cn.com/problems/defuse-the-bomb/">1652. 拆炸弹</a>
+ * @see <a href="https://leetcode.cn/problems/defuse-the-bomb/">1652. 拆炸弹</a>
  */
 public class Q1652 {
 

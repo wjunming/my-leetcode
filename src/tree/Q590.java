@@ -4,7 +4,7 @@ import java.util.LinkedList;
 import java.util.List;
 
 /**
- * @see <a href="https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/">590. N 叉树的后序遍历</a>
+ * @see <a href="https://leetcode.cn/problems/n-ary-tree-postorder-traversal/">590. N 叉树的后序遍历</a>
  */
 public class Q590 {
 

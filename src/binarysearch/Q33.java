@@ -1,7 +1,7 @@
 package binarysearch;
 
 /**
- * @see <a href="https://leetcode-cn.com/problems/search-in-rotated-sorted-array/">33. 搜索旋转排序数组</a>
+ * @see <a href="https://leetcode.cn/problems/search-in-rotated-sorted-array/">33. 搜索旋转排序数组</a>
  */
 public class Q33 {
 

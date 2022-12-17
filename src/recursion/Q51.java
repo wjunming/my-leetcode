@@ -3,7 +3,7 @@ package recursion;
 import java.util.*;
 
 /**
- * @see <a href="https://leetcode-cn.com/problems/n-queens/">51. N 皇后</a>
+ * @see <a href="https://leetcode.cn/problems/n-queens/">51. N 皇后</a>
  */
 public class Q51 {
 

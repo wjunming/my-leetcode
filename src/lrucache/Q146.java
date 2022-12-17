@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @see <a href="https://leetcode-cn.com/problems/lru-cache/">146. LRU 缓存</a>
+ * @see <a href="https://leetcode.cn/problems/lru-cache/">146. LRU 缓存</a>
  */
 public class Q146 {
 

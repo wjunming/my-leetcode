@@ -1,10 +1,9 @@
 package array;
 
-import java.util.HashSet;
-import java.util.Set;
+import java.util.*;
 
 /**
- * @see <a href="https://leetcode-cn.com/problems/contains-duplicate-ii/">219. 存在重复元素 II</a>
+ * @see <a href="https://leetcode.cn/problems/contains-duplicate-ii/">219. 存在重复元素 II</a>
  */
 public class Q219 {
 
@@ -35,5 +34,4 @@ public class Q219 {
         }
         return false;
     }
-
 }

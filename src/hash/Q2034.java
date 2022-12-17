@@ -5,7 +5,7 @@ import java.util.Map;
 import java.util.TreeMap;
 
 /**
- * @see <a href="https://leetcode-cn.com/problems/stock-price-fluctuation/">2034. 股票价格波动</a>
+ * @see <a href="https://leetcode.cn/problems/stock-price-fluctuation/">2034. 股票价格波动</a>
  */
 public class Q2034 {
 

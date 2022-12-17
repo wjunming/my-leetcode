@@ -1,7 +1,7 @@
 package array;
 
 /**
- * @see <a href="https://leetcode-cn.com/problems/plus-one/">66. 加一</a>
+ * @see <a href="https://leetcode.cn/problems/plus-one/">66. 加一</a>
  */
 public class Q66 {
 

@@ -1,7 +1,7 @@
 package array;
 
 /**
- * @see <a href="https://leetcode-cn.com/problems/move-zeroes/">283. 移动零</a>
+ * @see <a href="https://leetcode.cn/problems/move-zeroes/">283. 移动零</a>
  */
 public class Q283 {
 

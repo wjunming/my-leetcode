@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @see <a href="https://leetcode-cn.com/problems/pascals-triangle-ii/">119. 杨辉三角 II</a>
+ * @see <a href="https://leetcode.cn/problems/pascals-triangle-ii/">119. 杨辉三角 II</a>
  */
 public class Q119 {
 

@@ -1,7 +1,7 @@
 package trie;
 
 /**
- * @see <a href="https://leetcode-cn.com/problems/implement-trie-prefix-tree/">208. 实现 Trie (前缀树)</a>
+ * @see <a href="https://leetcode.cn/problems/implement-trie-prefix-tree/">208. 实现 Trie (前缀树)</a>
  */
 public class Q208 {
 

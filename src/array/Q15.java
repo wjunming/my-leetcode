@@ -6,7 +6,7 @@ import java.util.LinkedList;
 import java.util.List;
 
 /**
- * @see <a href="https://leetcode-cn.com/problems/3sum/">15. 三数之和</a>
+ * @see <a href="https://leetcode.cn/problems/3sum/">15. 三数之和</a>
  */
 public class Q15 {
 
@@ -40,7 +40,7 @@ public class Q15 {
         Arrays.sort(nums);
         int len = nums.length;
         for (int i = 0; i < len - 2; i++) {
-            if (i == 0 || (i > 0 && nums[i] != nums[i - 1])) {
+            if (i == 0 || nums[i] != nums[i - 1]) {
                 int j = i + 1;
                 int k = len - 1;
                 int target = -nums[i];
@@ -76,7 +76,7 @@ public class Q15 {
             }
             int target = -nums[i];
             int k = len - 1;
-            for (int j = i + 1; j < len - 1; j++) {
+            for (int j = i + 1; j < k; j++) {
                 if (j > i + 1 && nums[j] == nums[j - 1]) {
                     continue;
                 }
