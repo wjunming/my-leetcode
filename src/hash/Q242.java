@@ -29,8 +29,7 @@ public class Q242 {
             counter[s.charAt(i) - 'a']++;
         }
         for (int i = 0; i < t.length(); i++) {
-            counter[t.charAt(i) - 'a']--;
-            if (counter[t.charAt(i) - 'a'] < 0) {
+            if (--counter[t.charAt(i) - 'a'] < 0) {
                 return false;
             }
         }
